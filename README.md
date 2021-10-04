@@ -46,6 +46,10 @@ As the project name describes this is a clone of the tesla web app.
 - Visual Studio Code
 - Git & GitHub <br/>
 
+# How it look's
+    
+  <img src="gif/20211004_112114.gif" width="900" height="500" />
+
 # Some important information about Next.Js
 ## Getting Started
 
