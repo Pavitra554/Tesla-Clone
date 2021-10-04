@@ -13,6 +13,9 @@
     <a aria-label="Vercel logo" href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
+    <a href="https://www.framer.com/motion/">
+   <img src="https://img.shields.io/badge/Framer%20motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+  </a>
  
   <a aria-label="Vercel logo" href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
