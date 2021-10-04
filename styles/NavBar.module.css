@@ -1,0 +1,73 @@
+.report{
+    height: 55px;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top:0;
+    z-index: 10;
+    background-color: #fff;
+   
+}
+.report p{
+    background-color: #fff;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400px;
+    color: #393C41;
+    text-decoration: underline;
+    line-height: 21px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.mainnav{
+    height: 55px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background:transparent;
+    align-items: center;
+    justify-content: space-between;
+    padding: 21px;
+    position: fixed;
+    top:55px;
+    z-index: 10;
+    font-weight: bold;
+}
+.logo{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+    cursor: pointer;
+}
+.models{
+    display: block;
+    margin-left: 80px;
+    
+}
+.models, .leftLinks , .shopacc{
+    display: flex;
+    flex-direction: row;
+}
+.link{
+    padding: 4px 8px;
+    margin: 8px;
+    cursor: pointer;
+}
+.menu{
+    padding-left: 8px;
+    padding-right: 30px;
+}
+
+
+@media only screen and (max-width:1160px){
+    .models{
+        display: none;
+    }
+    .shopacc{
+        display: none;
+    }
+    
+}

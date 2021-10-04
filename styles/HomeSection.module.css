@@ -1,0 +1,50 @@
+.modelimg{
+    z-index: -500;
+    height: 1100px;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100%;
+    height: 80vh;
+    text-align: center;
+    font-size: 25px;
+    position:absolute;
+    margin-top: -630px;
+    
+}
+.details p{
+    font-weight: normal;
+    font-size: 15px;
+    color: #393c41d0;
+}
+.details a{
+    text-decoration: underline;
+}
+.btnss button{
+    width: 250px;
+    padding:12px ;
+    margin: 0px 15px;
+    border-radius: 50px;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn1{
+    background-color: #171a20c9;
+    color: #fff;
+}
+.btn2{
+    background-color: rgba(255, 255, 255, 0.575);
+    color: #393c41;
+}
+.arrow{
+    margin-top: 10px;
+}
+.copy{
+   text-align: center;
+   margin-bottom: 10px;
+   font-size: 13px;
+}
