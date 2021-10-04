@@ -36,6 +36,8 @@ As the project name describes this is a clone of the tesla web app.
 
 - Next.Js
 - React.Js
+- React Reveal
+- Framer motion
 - JavaScript 
 - CSS
 - Visual Studio Code
